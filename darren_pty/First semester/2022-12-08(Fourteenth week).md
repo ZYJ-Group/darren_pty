@@ -79,9 +79,10 @@
 - 通过同步对齐所有特征点云组来估计代理的相对姿态
 
 
-
+### 三、点云拼接 
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/19.png)
 
+colmap:
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/18.png)
 
 
