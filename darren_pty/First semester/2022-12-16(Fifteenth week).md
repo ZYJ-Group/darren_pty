@@ -19,7 +19,16 @@
   - 订阅左目RGB图片，内存从```62G --> 16G```, 用时：```15min```
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/22.png)
 
+## 2.2 采集数据
+- mapping 
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/25.png)
 
+视频链接：https://www.bilibili.com/video/BV1BW4y1M7Lk/?spm_id_from=333.999.0.0&vd_source=88bceb64b89804ec0cf90b2e004bf688
+
+- 3D build
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/26.png)
+
+视频链接：https://www.bilibili.com/video/BV19K4116768/?spm_id_from=333.788.recommend_more_video.0&vd_source=88bceb64b89804ec0cf90b2e004bf688
 
 
 # 三、遇到的问题及解决
