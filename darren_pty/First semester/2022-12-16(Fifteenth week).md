@@ -30,6 +30,8 @@
 
 视频链接：https://www.bilibili.com/video/BV19K4116768/?spm_id_from=333.788.recommend_more_video.0&vd_source=88bceb64b89804ec0cf90b2e004bf688
 
+- 雷达点云
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/27.png)
 
 # 三、遇到的问题及解决
 ## 3.1 录制的过程中报warn：rosbag record buffer exceed. dropping oldest queued message
