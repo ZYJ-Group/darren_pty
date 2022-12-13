@@ -8,11 +8,13 @@
 4、读稻田的论文
 
 
+
+
 # 二、具体细节
 ## 2.1 板载计算机内存问题
-- 板载计算机总内存为128G, 可用空间在62G左右
+- 板载计算机总内存为128G(可扩展), 可用空间在62G左右
 
- ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/23.png)
+ ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/29.jpg)
 
 - 测试：
   - 同时订阅左右目RGB图片，内存从```62G --> 17G```, 用时：```9min```
@@ -32,6 +34,15 @@
 
 - 雷达点云
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/27.png)
+
+## 2.3 图片提取点云（.obj --> .pcd）
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/28.png)
+
+采用的方法：https://www.zhihu.com/question/37577447
+
+
+
+
 
 # 三、遇到的问题及解决
 ## 3.1 录制的过程中报warn：rosbag record buffer exceed. dropping oldest queued message
