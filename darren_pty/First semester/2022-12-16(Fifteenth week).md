@@ -41,6 +41,8 @@
 采用的方法：https://www.zhihu.com/question/37577447
 
 
+## 2.4 用cloudcompare软件手动拼接(思路)
+https://www.bilibili.com/video/BV1mu411z7Vx/?spm_id_from=333.999.0.0&vd_source=88bceb64b89804ec0cf90b2e004bf688
 
 
 
