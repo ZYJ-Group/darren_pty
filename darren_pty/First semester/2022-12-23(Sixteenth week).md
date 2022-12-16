@@ -28,3 +28,4 @@
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/5.gif)
 
 - b站建图效果(27张)
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/6.gif)
