@@ -15,17 +15,26 @@
 
 ## 2.1 colmap 跑数据集
 ### 2.1.1 跑网上的数据集
-- 数据集(9张图片)
+- 数据集1(```9张图片```)
 
 ![](https://github.com/AIBluefisher/ComputerVisionDatasets/blob/master/Datasets/ET/et005.jpg)
 
-- 稀疏点云
+- 稀疏点云1
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/1.gif)
 
-- 稠密点云
+- 稠密点云1
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/4.gif)
-- 重建结果
+- 重建结果1
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/5.gif)
 
-- b站建图效果(27张)
-![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/6.gif)
+- 数据集2(```27张图片```)
+
+![](https://github.com/AIBluefisher/ComputerVisionDatasets/blob/master/Datasets/david/B00.jpg)
+
+- 稀疏点云2
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/7.gif)
+
+- 稠密点云2
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/8.gif)
+- 重建结果2
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/9.gif)
