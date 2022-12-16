@@ -11,5 +11,10 @@
 链接： https://www.bilibili.com/video/BV1mM411U78R/?vd_source=88bceb64b89804ec0cf90b2e004bf688
 
 
+## 2.1 colmap 跑数据集
+### 2.1.1 跑网上的数据集
+- 稀疏点云
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/1.gif)
 
-
+- 重建结果
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/2.gif)
