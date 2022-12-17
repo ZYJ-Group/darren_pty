@@ -50,6 +50,8 @@ https://blog.csdn.net/peng_258/article/details/128346706
 
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/34.png)
 
+- 稀疏点云
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/14.gif)
 - 稠密点云
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/11.gif)
 - 重建结果
