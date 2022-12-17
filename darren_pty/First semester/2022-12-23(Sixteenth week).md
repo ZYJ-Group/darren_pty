@@ -87,9 +87,10 @@ https://blog.csdn.net/peng_258/article/details/128346706
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/36.png)
 
 
-
-
-
+### 2.3.1 尝试
+将无人机zed相机分辨率改为最大2K(没有我手机分辨率大)，制作数据集跑的时候没有关键帧
+ 
+解决办法：是否可以更换飞机的zed相机，换成更高像素的相机
 
 
 
