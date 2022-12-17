@@ -50,13 +50,16 @@ https://blog.csdn.net/peng_258/article/details/128346706
 
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/34.png)
 
+- 稠密点云
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/11.gif)
+- 重建结果
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/12.gif)
+
 ### 2.2.3 跑无人机拍摄的数据集
 - 无人机拍摄照片(975张)
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/33.png)
 
 - 稀疏点云2 || ```关键帧只有10帧```
-![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/31.png)
-
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/10.gif)
 
-![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/11.gif)
+
