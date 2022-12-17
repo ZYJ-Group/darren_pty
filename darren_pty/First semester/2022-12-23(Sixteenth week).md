@@ -13,8 +13,11 @@
 链接： https://www.bilibili.com/video/BV1mM411U78R/?vd_source=88bceb64b89804ec0cf90b2e004bf688
 
 
-## 2.1 colmap 跑数据集
-### 2.1.1 跑网上的数据集
+## 2.2 colmap 跑数据集
+### 2.2.0 安装colmap
+https://blog.csdn.net/peng_258/article/details/128346706
+
+### 2.2.1 跑网上的数据集
 - 数据集1(```9张图片```)
 
 ![](https://github.com/AIBluefisher/ComputerVisionDatasets/blob/master/Datasets/ET/et005.jpg)
@@ -39,12 +42,12 @@
 - 重建结果2
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/9.gif)
 
-### 2.1.2 跑手机制作的数据集
+### 2.2.2 跑手机制作的数据集
 - 手机拍摄照片(36张) | 重建时间()
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/32.png)
 
 
-### 2.1.3 跑无人机拍摄的数据集
+### 2.2.3 跑无人机拍摄的数据集
 - 无人机拍摄照片(975张)
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/33.png)
 
