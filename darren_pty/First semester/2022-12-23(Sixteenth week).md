@@ -38,3 +38,17 @@
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/8.gif)
 - 重建结果2
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/9.gif)
+
+### 2.1.2 跑手机制作的数据集
+- 手机拍摄照片(36张) | 重建时间()
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/32.png)
+
+
+### 2.1.3 跑无人机拍摄的数据集
+- 无人机拍摄照片(975张)
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/33.png)
+
+- 稀疏点云2 || ```关键帧只有10帧```
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/31.png)
+
+
