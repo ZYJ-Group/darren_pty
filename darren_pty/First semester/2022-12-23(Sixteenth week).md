@@ -57,4 +57,6 @@ https://blog.csdn.net/peng_258/article/details/128346706
 - 稀疏点云2 || ```关键帧只有10帧```
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/31.png)
 
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/10.gif)
 
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/11.gif)
