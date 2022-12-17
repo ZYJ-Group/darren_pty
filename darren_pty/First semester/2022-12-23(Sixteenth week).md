@@ -42,6 +42,19 @@ https://blog.csdn.net/peng_258/article/details/128346706
 - 重建结果2
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/9.gif)
 
+
+- 数据集3(```距离自己镜头较远```)
+![](https://github.com/AIBluefisher/ComputerVisionDatasets/blob/master/Datasets/cathedral/100_7104.JPG)
+
+- 稀疏点云3
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/15.gif)
+
+- 稠密点云3
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/16.gif)
+- 重建结果3
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/17.gif)
+
+
 ### 2.2.2 跑手机制作的数据集
 - 手机拍摄照片(36张) | 重建时间(```52min```)
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/32.png)
@@ -63,5 +76,20 @@ https://blog.csdn.net/peng_258/article/details/128346706
 
 - 稀疏点云2 || ```关键帧只有10帧```
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/10.gif)
+
+
+## 2.3 原因分析
+看了colmap的数据集，有相同的特点: ```重建的东西离自己的镜头很近，重建的东西离自己的镜头较远则图片清晰度很高```
+
+所以```数据集清晰度越高，离自己镜头越近，重建效果越好```
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/35.png)
+
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/36.png)
+
+
+
+
+
+
 
 
